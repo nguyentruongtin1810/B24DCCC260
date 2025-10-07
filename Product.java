@@ -3,7 +3,7 @@ public class Product {
     private String name;
     private double price;
     private String type;
-    private String extraInfo; // IMEI hoặc HSD
+    private String extraInfo; 
 
     public Product(String id, String name, double price, String type, String extraInfo) {
         this.id = id;
